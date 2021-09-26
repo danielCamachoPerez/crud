@@ -17,3 +17,4 @@ json-server --host {your IP} --watch db.json -p 4000 ->you can chage port your p
 
 ![Getting Started](docs/img/screen_1.png)
 ![Getting Started](docs/img/screen_2.png)
+![Getting Started](docs/img/screen_3.png)
